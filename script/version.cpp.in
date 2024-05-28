@@ -1,6 +1,6 @@
 #include <{PROJECT}/version.h>
 
-namespace {PROJECT}::Version {
+namespace {NAMESPACE}::Version {
 	const uint64_t major = 0;
 	const uint64_t minor = 0;
 	const uint64_t patch = 1;

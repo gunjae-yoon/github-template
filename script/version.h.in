@@ -1,10 +1,10 @@
-#ifndef __{PROJECT}_version_h__
-#define __{PROJECT}_version_h__
+#ifndef __{NAMESPACE}_version_h__
+#define __{NAMESPACE}_version_h__
 
 #include <cstdint>
 #include <string>
 
-namespace {PROJECT} {
+namespace {NAMESPACE} {
 	namespace Version {
 		extern const uint64_t major;
 		extern const uint64_t minor;
