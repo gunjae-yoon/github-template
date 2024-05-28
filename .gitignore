@@ -41,6 +41,7 @@
 build
 
 # Version
+**/version.h
 **/version.cpp
 
 # Ctags
